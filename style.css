@@ -965,16 +965,16 @@ input {
 @font-face {
     font-family: 'Gotham Rounded Medium';
 
-    src: url('fonts/Gotham Rounded Medium/Gotham Rounded Medium.eot');
+    src: url('https://mefist0-1995.github.io/fonts/Gotham Rounded Medium/Gotham Rounded Medium.eot');
 
-    src: url('fonts/Gotham Rounded Medium/Gotham Rounded Medium.eot?#iefix') format('embedded-opentype');
+    src: url('https://mefist0-1995.github.io/fonts/Gotham Rounded Medium/Gotham Rounded Medium.eot?#iefix') format('embedded-opentype');
 
-    src: url('fonts/Gotham Rounded Medium/Gotham Rounded Medium.woff') format('woff');
+    src: url('https://mefist0-1995.github.io/fonts/Gotham Rounded Medium/Gotham Rounded Medium.woff') format('woff');
 
-    src: url('fonts/Gotham Rounded Medium/Gotham Rounded Medium.ttf') format('truetype');
+    src: url('https://mefist0-1995.github.io/fonts/Gotham Rounded Medium/Gotham Rounded Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Gotham Rounded Book';
-    src: url('fonts/Gotham Rounded Book/Gotham-Rounded-Book.woff') format('woff');
+    src: url('https://mefist0-1995.github.io/fonts/Gotham Rounded Book/Gotham-Rounded-Book.woff') format('woff');
 }
